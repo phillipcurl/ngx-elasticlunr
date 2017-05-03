@@ -1,0 +1,13 @@
+{
+  "generator-angular-library": {
+    "githubUsername": "phillipcurl",
+    "githubRepoName": "ngx-elasticlunr",
+    "npmModuleName": "ngx-elasticlunr",
+    "moduleGlobal": "ngxElasticlunr",
+    "ngModuleName": "NgxElasticlunrModule",
+    "selectorPrefix": "lunr",
+    "projectTitle": "ngx-elasticlunr",
+    "projectDescription": "A wrapper around Elasticlunr.js for easy use in Angular apps.",
+    "authorName": "Phillip Curl"
+  }
+}
